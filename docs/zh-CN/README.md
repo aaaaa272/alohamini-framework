@@ -10,6 +10,7 @@
 - [仿真](simulation.md)：MuJoCo、ManiSkill、RoboTwin、场景、回放与采集。
 - [LeRobot 兼容](lerobot.md)：数据集与模型权重的兼容范围。
 - [训练与部署](training.md)：数据整理、策略、训练、评估与本地／云端推理。
+- [RLT 实验运行与分析指南](RLT_实验运行与分析指南.md)：基于冻结 π0.5 的人机采集、RL Token、阶段分类器、离线双 Critic AC 训练与真机部署。
 - [Notebook](notebook.md)：可选的数据检查与实验入口。
 
 [项目主页](../../README.zh-CN.md)
